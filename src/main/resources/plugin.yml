@@ -1,0 +1,5 @@
+name: AntiLavaCast
+version: ${project.version}
+main: me.axilirate.antilavacast.AntiLavaCast
+api-version: 1.17
+author: axilirate
