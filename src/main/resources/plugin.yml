@@ -1,5 +1,5 @@
 name: AntiLavaCast
-version: ${project.version}
+version: '${project.version}'
 main: me.axilirate.antilavacast.AntiLavaCast
-api-version: 1.17
-author: axilirate
+api-version: 1.18
+authors: [ axilirate ]
